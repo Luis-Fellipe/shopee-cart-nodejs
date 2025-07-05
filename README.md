@@ -12,6 +12,8 @@ Nele, é simulado um sistema simples de carrinho de compras com funcionalidades 
 
 ## ▶️ Como Executar o Projeto
 
+Antes de tudo, certifique-se de ter o [Node.js](https://nodejs.org/) instalado na sua máquina.
+
 ```bash
 # Clone o repositório
 git clone https://github.com/Luis-Fellipe/shopee-cart-nodejs.git
